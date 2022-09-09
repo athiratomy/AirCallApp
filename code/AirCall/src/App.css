@@ -1,0 +1,36 @@
+section {
+  margin: 1rem auto;
+  width: 90%;
+  max-width: 40rem;
+  text-align: center;
+  background-color: #272727;
+  padding: 2rem;
+ 
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  background: #6d6875;
+  border: none;
+  margin: 10px;
+  color: white;
+  padding: 0.75rem 2rem;
+  
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover,
+button:active {
+  background-color: #b392ac;
+  
+}
+
+.navigation{
+  margin-top:5rem;
+  margin-left: 40rem;
+  padding:5px;  
+}

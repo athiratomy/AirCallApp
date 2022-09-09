@@ -1,0 +1,31 @@
+.call {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #f5ebe0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 5px;
+  text-align: center;
+  color: black;
+}
+
+.call h2 {
+  font-size: 2rem;
+  color: black;
+}
+
+.call h3 {
+  color: black;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.detail {
+  
+  background-color: #b392ac;
+  color:black;
+  border: none;
+}
+
+.detail:hover {
+  background-color: #d1b3c4;
+}
