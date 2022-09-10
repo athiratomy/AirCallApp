@@ -2,8 +2,7 @@ section {
   margin: 1rem auto;
   width: 90%;
   max-width: 40rem;
-  text-align: center;
-  background-color: #272727;
+  text-align: center; 
   padding: 2rem;
  
 }
@@ -11,7 +10,7 @@ section {
 button {
   font: inherit;
   cursor: pointer;
-  background: #6d6875;
+  background: #b392ac;
   border: none;
   margin: 10px;
   color: white;
@@ -29,8 +28,25 @@ button:active {
   
 }
 
-.navigation{
-  margin-top:5rem;
-  margin-left: 40rem;
-  padding:5px;  
+.nav-link {
+  font: inherit;
+  font-size: large;
+  cursor: pointer;
+  background: #b392ac;
+  border: none; 
+  color: white; 
+  text-decoration: none;
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+    
+}
+
+.navbody{
+  width: 100%;
+  background: #b392ac;
+  padding: 2rem;
+  background-size: contain;
+  margin-top: 0px;
 }
